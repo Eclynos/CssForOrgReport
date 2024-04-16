@@ -1,4 +1,4 @@
 # -*- mode: org; -*-
 
 #+OPTIONS: html-style:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://github.com/Eclynos/CssForOrgReport/blob/main/Report.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./Report.css"/>
