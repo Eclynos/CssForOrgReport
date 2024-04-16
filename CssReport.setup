@@ -1,5 +1,4 @@
 # -*- mode: org; -*-
 
 #+OPTIONS: html-style:nil
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://perso.isima.fr/~nacarlier/CssForOrgReport/Report.css"/>
-#+HTML_HEAD: <script type="text/javascript" src="https://perso.isima.fr/~nacarlier/CssForOrgReport/Report.js"></script>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="/home/nathael/Scripts/CssForOrgReport/Report.css"/>
