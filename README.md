@@ -8,4 +8,4 @@ Inspired by fniessen's [orgmode html theme](https://github.com/fniessen/org-html
 
 Add the following line at the beginning of your orgmode report : 
 
-*#+SETUPFILE: https://perso.isima.fr/~nacarlier/CssForOrgReport/CssReport.setup*
+**#+SETUPFILE: https://perso.isima.fr/~nacarlier/CssForOrgReport/CssReport.setup**
